@@ -1,10 +1,10 @@
 # Site settings
 title: Yuan Yuan
-SEOTitle: 熙园的博客 | XY Blog
+SEOTitle: 熙园的博客 | XiYuan Blog
 header-img: img/post-bg-desk.jpg
 email: yuanzi@gmail.com
-description: "Every failure is leading towards success."
-keyword: "XY, XY Blog, 熙园的博客"
+description: "Work hard and Good Luck!."
+keyword: "XiYuan, XiYuan Blog, 熙园的博客"
 url: "http://xiweiya.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xiweiya/xiweiya.github.io.git" # you code repository
